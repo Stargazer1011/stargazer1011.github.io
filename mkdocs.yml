@@ -11,8 +11,8 @@ theme:
     scheme: moog
   icon:
     repo: fontawesome/brands/github
-  logo: img/TsubakuroBonk.png
-  favicon: img/TsubakuroBonk.png
+  logo: img/moog.png
+  favicon: img/moog.png
 extra_css:
   - stylesheets/extra.css
 nav:

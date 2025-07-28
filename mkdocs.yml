@@ -2,7 +2,7 @@ site_name: Stargazer1011
 site_url: https://stargazer1011.github.io/
 site_description: aaaaaaaaaaa
 site_author: Stargazer 
-repo_url: https://github.com/Stargazer1011/stargazer1001.github.io
+repo_url: https://github.com/Stargazer1011/stargazer1011.github.io
 repo_name: Stargazer1011/stargazer1001.github.io
 
 theme:
@@ -12,6 +12,7 @@ theme:
   icon:
     repo: fontawesome/brands/github
   logo: img/TsubakuroBonk.png
+  favicon: img/TsubakuroBonk.png
 extra_css:
   - stylesheets/extra.css
 nav:

@@ -11,8 +11,8 @@ theme:
     scheme: moog
   icon:
     repo: fontawesome/brands/github
-  logo: img/moog.png
-  favicon: img/moog.png
+  logo: img/moog.jpeg
+  favicon: img/moog.jpeg
 extra_css:
   - stylesheets/extra.css
 nav:

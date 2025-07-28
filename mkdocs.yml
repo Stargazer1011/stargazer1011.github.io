@@ -19,3 +19,10 @@ nav:
   - Home: 'index.md'
   - 'Build Log':
     - 'Build log #1': 'build_log_1.md'
+
+#steps to push code to github from vscode
+
+#git add .
+#git status (optional)
+#git commit -m 'add commit message here'
+#git push origin main

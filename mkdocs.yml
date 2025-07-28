@@ -6,3 +6,7 @@ theme:
     scheme: moog
 extra_css:
   - stylesheets/extra.css
+nav:
+  - Home: 'index.md'
+  - 'Build Log':
+    - 'Build log #1': 'build_log_1.md'

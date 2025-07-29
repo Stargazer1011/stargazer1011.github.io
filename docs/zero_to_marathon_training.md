@@ -20,7 +20,7 @@ Taken from [this website](https://run.outsideonline.com/training/training-plans/
 | Week | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 1 | Rest | Run Easy 30 min | Optional Non-Impact Cardio 30 min | Run Easy 30 min | Optional Non-Impact Cardio 30 min | Run Easy 40 min | Optional Non-Impact Cardio 30 min |
-| 2 | Rest | Speed Play 35 min Easy with 4×30 sec Hard sprinkled in | Optional Non-Impact Cardio 30 min | Fast Finish 30 min Easy + 5 min Moderate | Optional Non-Impact Cardio 30 min | Run Easy | Optional Non-Impact Cardio 30 min |
+| 2 | Rest | Speed Play 35 min Easy with 4×30 sec Hard sprinkled in | Optional Non-Impact Cardio 30 min | Fast Finish 30 min Easy + 5 min Moderate | Optional Non-Impact Cardio 30 min | Run Easy 40 min | Optional Non-Impact Cardio 30 min |
 | 3 | Rest | Speed Play 40 min Easy with 4×30 sec Hard sprinkled in | Optional Non-Impact Cardio 30 min | Fast Finish 30 min Easy + 10 min Moderate | Optional Non-Impact Cardio 30 min | Run Easy 1 hour | Optional Non-Impact Cardio 30 min |
 | 4 | Rest | Speed Play 35 min Easy with 4×30 second Hard sprinkled in | Optional Non-Impact Cardio 30 min |  	Fast Finish 30 min Easy + 5 min Moderate | Optional Non-Impact Cardio 30 min | Rest | 10K Race |
 

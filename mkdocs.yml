@@ -19,6 +19,8 @@ nav:
   - Home: 'index.md'
   - 'Build Log':
     - 'Build log #1': 'build_log_1.md'
+  - 'Misc':
+    - 'Marathon Training Schedule': 'zero_to_marathon_training.md'
 
 #steps to push code to github from vscode
 

@@ -7,6 +7,7 @@ Taken from [this website](https://run.outsideonline.com/training/training-plans/
 | 1 | Rest | High-intensity run | Optional cross-training or rest | Moderate-intensity run | Optional cross-training or rest | Easy run or cross-training | Long run |
 
 ## Zero to 5K Plan
+
 | Week | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 1 | Rest | Walk/Run Easy 10x(Walk 2 min/ Run Easy 1 min) | rest | Walk/Run Easy 10x (Walk 2 min/ Run Easy 1 min) | rest | Walk/Run Easy 13x (Walk 2 min/ Run Easy 1 min) | Optional Non-Impact Cardio 30 min |
@@ -14,7 +15,7 @@ Taken from [this website](https://run.outsideonline.com/training/training-plans/
 | 3 | Rest | Walk/Run Easy 15x (Walk 30 sec/Run Easy 1.5 min) | Optional Non-Impact Cardio 30 min | Walk/Run Easy 15x (Walk 30 sec/ Run Easy 1 min) | Optional Non-Impact Cardio 30 min | Run Easy 30 min |  	Optional Non-Impact Cardio 30 min |
 | 4 | Rest | Walk/Run Easy 15x(Walk 30 sec) | Optional Non-Impact Cardio 30 min |  Run Easy 25 min |  Optional Non-Impact Cardio 30 min | Rest | 5K Race |
 
-## 5K to 10K Plan
+### 5K to 10K Plan
 
 | Week | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
@@ -23,7 +24,7 @@ Taken from [this website](https://run.outsideonline.com/training/training-plans/
 | 3 | Rest | Speed Play 40 min Easy with 4×30 sec Hard sprinkled in | Optional Non-Impact Cardio 30 min | Fast Finish 30 min Easy + 10 min Moderate | Optional Non-Impact Cardio 30 min | Run Easy 1 hour | Optional Non-Impact Cardio 30 min |
 | 4 | Rest | Speed Play 35 min Easy with 4×30 second Hard sprinkled in | Optional Non-Impact Cardio 30 min |  	Fast Finish 30 min Easy + 5 min Moderate | Optional Non-Impact Cardio 30 min | Rest | 10K Race |
 
-## 10K to Half Marathon Plan
+### 10K to Half Marathon Plan
 
 | Week | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
@@ -36,7 +37,7 @@ Taken from [this website](https://run.outsideonline.com/training/training-plans/
 | 7 | Rest | Hill Reps 10 min Easy + 7x(1 min Hard uphill/2 min Easy) + 10 min Easy | Optional Non-Impact Cardio 30 min | Tempo Run 15 min Easy + 20 min Moderate + 15 min Easy | Optional Non-Impact Cardio 30 min | Run Easy or Non-Impact Cardio 30 min | Long Run 8 miles Easy |
 | 8 | Rest | Speed Play 40 min Easy with 8×30 sec Hard sprinkled in | Optional Non-Impact Cardio 30 min | Fast Finish 40 min Easy + 10 min Moderate | Optional Non-Impact Cardio 30 min | Rest | Half Marathon |
 
-## Half Marathon to Full Marathon Plan
+### Half Marathon to Full Marathon Plan
 
 | Week | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |

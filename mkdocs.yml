@@ -2,8 +2,6 @@ site_name: Stargazer1011
 site_url: https://stargazer1011.github.io/
 site_description: moog moog moog moog moog
 site_author: Stargazer 
-repo_url: https://github.com/Stargazer1011/stargazer1011.github.io
-repo_name: stargazer1011.github.io
 
 theme:
   name: material

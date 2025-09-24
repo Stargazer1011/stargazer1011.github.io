@@ -7,8 +7,6 @@ theme:
   name: material
   palette:
     scheme: moog
-  icon:
-    repo: fontawesome/brands/github
   logo: img/moog.jpeg
   favicon: img/moog.jpeg
 extra_css:

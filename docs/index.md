@@ -1,3 +1,6 @@
-![hinemosu](img/hinemosu.jpeg)
+![天体の夢](img/天体の夢.jpg)
 # Hello :D
-Hello! This site is mainly contains my blog about my various project that I have build over the years. I’ll probably post some other stuff like travel blogs or food blogs or blogs with my personal thoughts. Welcome to my site! [Image source](https://x.com/niboshidrip/status/1933479920837275859)
+Hello! I am Stargazer. I am a college student in the United States studying Mechanical Engineering. I am a international student from the nation of Taiwan. I am very interested in astronomy and rocket propulsion, and I wanted a space where I can share my discoveries and progress that I have made studying! I hope you will enjoy.
+
+If you are interested in talking to me, my email is stargazerart940@gmail.com
+[Image source](https://www.pixiv.net/en/artworks/50096737)

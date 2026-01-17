@@ -19,6 +19,14 @@ nav:
   - 'Misc':
     - 'MarathonTraining Schedule': 'zero_to_marathon_training.md'
 
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+
 #steps to push code to github from vscode
 
 #git add .

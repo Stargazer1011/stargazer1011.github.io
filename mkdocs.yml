@@ -16,6 +16,7 @@ nav:
   - 'Build Log':
     - 'Build log test':
         - 'Build log #1': 'build_log_1.md'
+        - 'Latex test': 'test.tex'
   - 'Misc':
     - 'MarathonTraining Schedule': 'zero_to_marathon_training.md'
 

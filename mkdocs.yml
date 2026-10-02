@@ -13,7 +13,8 @@ extra_css:
   - stylesheets/extra.css
 nav:
   - Home: 'index.md'
-  -'portfolio': 'SEDS_portfolio.md'
+  - 'portfolio':
+    - 'SEDS Portfolio': 'SEDS_portfoio.md'
   - 'Build Log':
     - 'Build log test':
         - 'Build log #1': 'build_log_1.md'

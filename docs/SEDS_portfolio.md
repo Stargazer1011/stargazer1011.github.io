@@ -29,3 +29,4 @@ This became our final robot for our first competition of the season, note that t
 Here is footage of the competiton, we were the robot in the middle of the red side. As you can see we were too ambitions and the robot was struggling to move at all. (appologies for the horrible videography)
 ![image](img/IMG_2669.jpeg)
 We ended up with this new design inspired by one of the teams at our first competiton. Though our preformance was better, we did not fare better in our competition. 
+a

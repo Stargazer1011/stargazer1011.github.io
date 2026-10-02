@@ -14,7 +14,7 @@ extra_css:
 nav:
   - Home: 'index.md'
   - 'portfolio':
-    - 'SEDS Portfolio': 'SEDS_portfoio.md'
+    - 'SEDS Portfolio': 'SEDS_portfolio.md'
   - 'Build Log':
     - 'Build log test':
         - 'Build log #1': 'build_log_1.md'

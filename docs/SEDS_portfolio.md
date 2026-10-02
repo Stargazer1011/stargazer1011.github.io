@@ -7,4 +7,7 @@ This is our 2022 Rapid React Robot for the main team (3245), it features a fixed
 ![type:video](img/IMG_0995.mp4)
 Here is our 2022 Raipid React Robot for the first year (our team version of cadets) (3166) that ended up going to the worlds champoinship.
 
-a
+<video width="100%" controls>
+  <source src="../img/IMG_0995.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>

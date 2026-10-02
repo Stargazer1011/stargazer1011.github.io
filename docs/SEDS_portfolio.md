@@ -7,5 +7,7 @@ This is our 2022 Rapid React Robot for the main team (3245), it features a fixed
 <video width="100%" controls>
   <source src="../img/IMG_0995.mp4" type="video/mp4">
 </video>
-Here is our 2022 Raipid React Robot for the first year (our team version of cadets) (3166) that ended up going to the worlds champoinship.
+Here is a video of us testing the ground intake for our robot of the rookie team (our team version of cadets) (3166). The intake ended up not functioning as effectivly as we liked but we still reached the World Championship after reaching the finals in the Utah Reginal.
+
+
 

@@ -18,7 +18,6 @@ nav:
   - 'Build Log':
     - 'Build log test':
         - 'Build log #1': 'build_log_1.md'
-  - 'Misc':
 
 markdown_extensions:
   - pymdownx.arithmatex:

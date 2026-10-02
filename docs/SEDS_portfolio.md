@@ -10,9 +10,9 @@ This is our 2022 robot for the main team (3245), it features a fixed shooter and
 </video>
 Here is a video of us testing the ground intake for our robot of the rookie team (our team version of cadets) (3166). The intake is using pneumatic actuators to deploy and retract. The intake ended up not functioning as effectivly as we liked but we still reached the World Championship after reaching the finals in the Utah Regional.
 
-This was my first year at my robotics team, and I was tasked with building the drivebase alongside the mentor, the drivebase, which ended up on the 3166 robot, ended up at the worlds championship.
+This was my first year at my robotics team, and I was tasked with building the drivebase alongside the mentor, the drivebase, which ended up on the 3166 robot, which is the one who went to the World Championship.
 
-## 2023
+### 2023
 I had not have much involvement in the 2023 season because my dad was sick and I had to go back to Taiwan for about a month. This made me miss almost all of the development cycle. Due to this I had only worked on miscellaneous parts on the robots, like tightening the chains on the arm mechanism. 
 
 ![image](img/IMG_2372.jpeg)
@@ -26,7 +26,16 @@ This became our final robot for our first competition of the season, note that t
 <video width="100%" controls>
   <source src="../img/IMG_2527a.mp4" type="video/mp4">
 </video>
-Here is footage of the competiton, we were the robot in the middle of the red side. As you can see we were too ambitions and the robot was struggling to move at all. (appologies for the horrible videography)
+Here is footage of the competiton, we were the robot in the middle of the red side. As you can see we were too ambitions and the robot was not moving compared to our expectations. (appologies for the horrible videography)
+
 ![image](img/IMG_2669.jpeg)
 We ended up with this new design inspired by one of the teams at our first competiton. Though our preformance was better, we did not fare better in our competition. 
-a
+
+![image](img/CAD1.JPG)
+This is around the time I started learning how to CAD, this is one of the project I started, I studied the geometry of our intake and made a replica.
+
+### 2024
+
+This was the last year of my high school, and this is when I decided that I needed to take ownership of one of the design project and I decided to work with my friend to design a climber for the robot.
+
+## USS Hornet - Sea, Air and Space Museum

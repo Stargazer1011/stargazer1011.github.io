@@ -1,7 +1,7 @@
 site_name: Ernie's Website
 site_url: https://stargazer1011.github.io/
 site_description: moog moog moog moog moog
-site_author: Erniee
+site_author: Ernie
 
 theme:
   name: material
@@ -34,3 +34,12 @@ extra_javascript:
 #git status (optional)
 #git commit -m 'add commit message here'
 #git push origin main
+
+#If you added too large of a file:
+
+
+#Locally delete large files.
+#Commit the local deletes.
+#Soft reset back X number of commits (for me it was 3): "git reset --soft HEAD~3".
+#Then recommit all the changes together (AKA squash) "git commit -m "New message for the combined commit""
+#Push squashed commit. (Note: You may have to force the push, using 'git push --force origin main')

@@ -100,4 +100,4 @@ Here is a video of me practicing how to weld.
 
 I joined this project too late, so before I can see this project to completion I transfered to UCSD.
 
-Thank you for reading my portfolio! I am sorry this is so long. I was planning to make it short, and before I knew it, it became this long.
+Thats all I have done for the past few years, thank you for reading my portfolio! 

@@ -92,12 +92,10 @@ Measuring the beam to make sure that they are level.
 
 ![image](img_hornet/IMG_1701.jpeg)
 My first succesful tack weld!
-
+## FLASH WARNING
 <video width="100%" controls>
   <source src="../img_hornet/IMG_1739.mp4" type="video/mp4">
 </video>
 Here is a video of me practicing how to weld.
-
-I joined this project too late, so before I can see this project to completion I transfered to UCSD.
 
 Thats all I have done for the past few years, thank you for reading my portfolio! 

@@ -1,7 +1,7 @@
 # SEDS portfolio
 Here are the project that I have worked on in the past:
 ## FRC Robotics team
-In high school I participated in my team's robotics program ([3245](https://www.thebluealliance.com/team/3245), [2166](https://www.thebluealliance.com/team/3166)) from 2021 to 2024.
+In high school I participated in my team's robotics program ([3245](https://www.thebluealliance.com/team/3245), [2166](https://www.thebluealliance.com/team/3166)) from 2022 to 2024.
 ### 2022
 ![image](img/DSC01720.JPG)
 This is our 2022 robot for the main team (3245), it features a fixed shooter and a ground intake, unfortunatly none of the mechanism worked and we ended up playing defence at the competitons  
@@ -10,7 +10,9 @@ This is our 2022 robot for the main team (3245), it features a fixed shooter and
 </video>
 Here is a video of us testing the ground intake for our robot of the rookie team (our team version of cadets) (3166). The intake is using pneumatic actuators to deploy and retract. The intake ended up not functioning as effectivly as we liked but we still reached the World Championship after reaching the finals in the Utah Regional.
 
-This was my first year at my robotics team, and I was tasked with building the drivebase alongside the mentor, the drivebase, which ended up on the 3166 robot, which is the one who went to the World Championship.
+![image](img/IMG_0988.jpeg)
+
+This was my first year at my robotics team, and I was tasked with building the drivebase alongside the mentor, the drivebase seen above, ended up on the 3166 robot. Which is the robot that ended up at the World Championship.
 
 ### 2023
 I had not have much involvement in the 2023 season because my dad was sick and I had to go back to Taiwan for about a month. This made me miss almost all of the development cycle. Due to this I had only worked on miscellaneous parts on the robots, like tightening the chains on the arm mechanism. 
@@ -38,9 +40,30 @@ This is around the time I started learning how to CAD, this is one of the projec
 
 This was the last year of my high school, and this is when I decided that I needed to take ownership of one of the design project and I decided to work with my friend to design a climber for the robot.
 
+<video width="100%" controls>
+  <source src="../img/IMG_4636.mp4" type="video/mp4">
+</video>
 
+This was our robot in action, as you can see, this year we switched to a swerve drivebase, which allowes our robot to move more freely.
+
+![image](img/IMG_4559.jpeg)
+
+This is me assembling the swerve drivetrain, since there was no need for pulleys/chains and since the motors are upright, it allowed more space to put the electrical component into the robot. 
 
 ![image](img/IMG_4581.jpg)
 
 This was my prototype for the climber, it did not have other parts becaus it was supposed to be integrated to the main mechanism. 
+
+![image](img/IMG_4585.jpg)
+
+This is the protoype intergrated on the arm of the robot. The robot was able to use the slots to hold onto the chain and climb itself up using the arm. However we ended up scaping the project as the robot arm is a critical part of the robot and we cannot risk it being damaged. It is still fulfilling to be able to contribute to the design of the robot.
+
+I had also decided to become the team's scout lead during competitions. 
+I had wrote down notes of every robot in the competion, notes on most matches, as well as our win loss ratio.
+![image](img/Idaho%20scouting-17.jpg)
+I had notes on every team as I walked around their pit area. This is the notes I wrote down on my own team.
+![image](img/Idaho%20scouting-46.jpg)
+This is my impression on each robot during their practice matches and what their performance looks like on the field. I can use this data to refrence my notes I took on the robot in the pit area.
+![image](img/Idaho%20scouting-52.jpg)
+This is our match statistic at the end of day one. We did end up as the 5th best team.
 ## USS Hornet - Sea, Air and Space Museum

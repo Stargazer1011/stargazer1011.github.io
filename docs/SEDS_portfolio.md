@@ -67,3 +67,37 @@ This is my impression on each robot during their practice matches and what their
 ![image](img/Idaho%20scouting-52.jpg)
 This is our match statistic at the end of day one. We did end up as the 5th best team.
 ## USS Hornet - Sea, Air and Space Museum
+In Community College I volunteered at the USS Hornet for half a year, in the air restoration group.
+
+At the start I helped on various project, I helped moved aircraft around, I detached drop tank from a F-86 Sabre, to working on a retired F-18. 
+![image](img_hornet/IMG_1225.jpeg)
+*removing a droptank from F-28 Sabre to repaint*
+![image](img_hornet/IMG_1252.jpeg)
+*Working on the F18*
+
+I decided that I want to work on the ongoing project to restore the Gemini space capsure, to remake the cockpit so that visitors can sit in it.
+![image](img_hornet/IMG_1613.jpeg)
+*The Gemini Capsule*
+
+![image](img_hornet/IMG_1612.jpeg)
+You can see below that I grinded the inside of the capsure to expose the metal to prepare for welding.
+
+We needed to add support beams before putting in the seats and the instruments. 
+
+![image](img_hornet/IMG_1698.jpeg)
+*I am ironman*
+
+![image](img_hornet/IMG_1700.jpeg)
+Measuring the beam to make sure that they are level.
+
+![image](img_hornet/IMG_1701.jpeg)
+My first succesful tack weld!
+
+<video width="100%" controls>
+  <source src="../img_hornet/IMG_1739.mp4" type="video/mp4">
+</video>
+Here is a video of me practicing how to weld.
+
+I joined this project too late, so before I can see this project to completion I transfered to UCSD.
+
+Thank you for reading my portfolio! I am sorry this is so long. I was planning to make it short, and before I knew it, it became this long.

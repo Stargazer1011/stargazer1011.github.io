@@ -65,7 +65,7 @@ I had notes on every team as I walked around their pit area. This is the notes I
 ![image](img/Idaho%20scouting-46.jpg)
 This is my impression on each robot during their practice matches and what their performance looks like on the field. I can use this data to refrence my notes I took on the robot in the pit area.
 ![image](img/Idaho%20scouting-52.jpg)
-This is our match statistic at the end of day one. We did end up as the 5th best team in the competition.
+This is our match statistic at the end of day one. We did end up as the 5th best team in the competition, and we reached finals in this competition.
 ## USS Hornet - Sea, Air and Space Museum
 In Community College I volunteered at the USS Hornet for half a year, in the air restoration group.
 

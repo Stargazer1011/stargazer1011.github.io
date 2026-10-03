@@ -94,7 +94,7 @@ Measuring the beam to make sure that they are level.
 My first succesful tack weld!
 ## FLASH WARNING
 
-Here is a video of me practicing how to weld.:
+Here is a video of me practicing how to weld:
 
 <video width="100%" controls>
   <source src="../img_hornet/IMG_1739.mp4" type="video/mp4">

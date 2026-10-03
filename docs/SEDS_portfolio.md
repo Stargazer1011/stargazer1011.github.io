@@ -38,4 +38,9 @@ This is around the time I started learning how to CAD, this is one of the projec
 
 This was the last year of my high school, and this is when I decided that I needed to take ownership of one of the design project and I decided to work with my friend to design a climber for the robot.
 
+
+
+![image](img/IMG_4581.jpg)
+
+This was my prototype for the climber, it did not have other parts becaus it was supposed to be integrated to the main mechanism. 
 ## USS Hornet - Sea, Air and Space Museum

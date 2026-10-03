@@ -12,7 +12,7 @@ Here is a video of us testing the ground intake for our robot of the rookie team
 
 ![image](img/IMG_0988.jpeg)
 
-This was my first year at my robotics team, and I was tasked with building the drivebase alongside the mentor, the drivebase seen above, ended up on the 3166 robot. Which is the robot that ended up at the World Championship.
+This was my first year at my robotics team, and I was tasked with building the drivebase alongside the mentor, the drivebase seen above ended up on the 3166 robot. Which is the robot that ended up at the World Championship.
 
 ### 2023
 I had not have much involvement in the 2023 season because my dad was sick and I had to go back to Taiwan for about a month. This made me miss almost all of the development cycle. Due to this I had only worked on miscellaneous parts on the robots, like tightening the chains on the arm mechanism. 
@@ -65,7 +65,7 @@ I had notes on every team as I walked around their pit area. This is the notes I
 ![image](img/Idaho%20scouting-46.jpg)
 This is my impression on each robot during their practice matches and what their performance looks like on the field. I can use this data to refrence my notes I took on the robot in the pit area.
 ![image](img/Idaho%20scouting-52.jpg)
-This is our match statistic at the end of day one. We did end up as the 5th best team.
+This is our match statistic at the end of day one. We did end up as the 5th best team in the competition.
 ## USS Hornet - Sea, Air and Space Museum
 In Community College I volunteered at the USS Hornet for half a year, in the air restoration group.
 
@@ -79,10 +79,10 @@ I decided that I want to work on the ongoing project to restore the Gemini space
 ![image](img_hornet/IMG_1613.jpeg)
 *The Gemini Capsule*
 
+We needed to add support beams before putting in the seats and the instruments. 
+
 ![image](img_hornet/IMG_1612.jpeg)
 You can see below that I grinded the inside of the capsure to expose the metal to prepare for welding.
-
-We needed to add support beams before putting in the seats and the instruments. 
 
 ![image](img_hornet/IMG_1698.jpeg)
 *I am ironman*
@@ -93,9 +93,11 @@ Measuring the beam to make sure that they are level.
 ![image](img_hornet/IMG_1701.jpeg)
 My first succesful tack weld!
 ## FLASH WARNING
+
+Here is a video of me practicing how to weld.:
+
 <video width="100%" controls>
   <source src="../img_hornet/IMG_1739.mp4" type="video/mp4">
 </video>
-Here is a video of me practicing how to weld.
 
 Thats all I have done for the past few years, thank you for reading my portfolio! 

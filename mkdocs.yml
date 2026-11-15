@@ -15,7 +15,8 @@ nav:
   - Home: 'index.md'
   - 'build log':
     - 'Rocket project':
-      - 'Buildlog 1': 'Rocket_buildlog_1.md'
+      - 'Build log 1': 'Rocket_buildlog_1.md'
+      - 'Build log 2': 'Rocket_buildlog_2.md'
   - 'portfolio':
     - 'UCSD':
       - 'SEDS Portfolio': 'SEDS_portfolio.md'

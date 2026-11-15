@@ -1,5 +1,5 @@
 # Rocket Personal Projcet
-### 2026-11-14
+*2026-11-14*
 ## What I hope to learn from this project
 The goal of this project is to recreate UCSD SEDS's Moonshine rocket. 
 

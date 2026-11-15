@@ -39,4 +39,7 @@ For the combustion chamber sizing, the $L^*$ or characteristic length of the cha
   <figcaption>I used a spreadsheet to calculate the values of the nozzle and combustion chamber.</figcaption>
 </figure>
 
+![image](blog_img/B1_CEA_spreadsheet.png)
+*I used a spreadsheet to calculate the values of the nozzle and combustion chamber*
+
 Thanks for reading!

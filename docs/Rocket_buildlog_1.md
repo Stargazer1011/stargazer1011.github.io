@@ -34,12 +34,8 @@ Initially the numbers looked really off, for some reason the cross-secional area
 
 For the combustion chamber sizing, the $L^*$ or characteristic length of the chamber was apparantly different based on the fuel you use. I don't know why, maybe its because LOX/IPA is not practical in orbital vehicles, but I can't find any data on its $L^*$. I decided to set it at 1.5 meters and try to change it based on CFD results. 
 
-<figure>
-  <img src="blog_img/B1_CEA_spreadsheet.png">
-  <figcaption>I used a spreadsheet to calculate the values of the nozzle and combustion chamber.</figcaption>
-</figure>
-
+Below is the spreadsheet I used to calculate the values of the nozzle and combustion chamber
 ![image](blog_img/B1_CEA_spreadsheet.png)
-*I used a spreadsheet to calculate the values of the nozzle and combustion chamber*
+
 
 Thanks for reading!

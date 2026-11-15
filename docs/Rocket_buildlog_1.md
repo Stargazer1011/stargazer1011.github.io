@@ -1,5 +1,5 @@
 # Rocket Personal Projcet
-2026-11-14
+### 2026-11-14
 ## What I hope to learn from this project
 The goal of this project is to recreate UCSD SEDS's Moonshine rocket. 
 
@@ -34,6 +34,7 @@ Initially the numbers looked really off, for some reason the cross-secional area
 
 For the combustion chamber sizing, the $L*$ or characteristic length of the chamber was apparantly different based on the fuel you use. I don't know why, maybe its because LOX/IPA is not practical in orbital vehicles, but I can't find any data on its $L*$. I decided to set it at 1.5 meters and try to change it based on CFD results. 
 
-![image](<blog_img/B1_CEA_spreadsheet.png> I used a spreadsheet to calculate the values of the nozzle and combustion chamber)
+![image](blog_img/B1_CEA_spreadsheet.png)
+I used a spreadsheet to calculate the values of the nozzle and combustion chamber
 
 Thanks for reading!

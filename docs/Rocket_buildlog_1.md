@@ -11,14 +11,14 @@ Including CEA (Chemical Equilibrium Analysis), CAD (Computer Aided Design), and 
 ## Parameters 
 All the parameters are based on SEDS UCSD's Moonshine Block 1 engine.
 
-|Parameters|Values|
-|:----------|:------|
-|Thrust|550 lbF|
-|Chamber Pressure|500 PSI|
-|Fuel|LOX/IPA (Isopropal Alcholol)|
-|Chamber material|Stainless Steel|
-|Ignition|Solid Ingiter|
-|Cooling|Film Cooling|
+| Parameters | Values |
+| ---------- | ------ |
+| Thrust | 550 lbF |
+| Chamber Pressure | 500 PSI |
+| Fuel | LOX/IPA (Isopropal Alcholol) |
+| Chamber material | Stainless Steel |
+| Ignition | Solid Ingiter |
+| Cooling | Film Cooling |
 
 ## Build Log
 I started knowing nothing 

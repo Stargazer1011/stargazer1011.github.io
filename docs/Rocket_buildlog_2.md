@@ -11,6 +11,6 @@ As you can see, the CAD showed that there is something seriously wrong with my s
 
 I will have to go back to the spreadsheet to make sure that all my numbers are correct. I don't really know where to start looking though, so this could be an issue.
 
-I'd also need to figure out the injectors too because I don't think I sized them yet, but the sizing issue is more pressing.
+I'd also need to figure out the injectors too, but the sizing issue is more pressing.
 
 Thanks for reading!

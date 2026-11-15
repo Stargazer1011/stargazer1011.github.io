@@ -14,7 +14,8 @@ extra_css:
 nav:
   - Home: 'index.md'
   - 'build log':
-    -'Rocket project': 'Rocket_buildlog_1.md'
+    -'Rocket project':
+      -'Buildlog 1': 'Rocket_buildlog_1.md'
   - 'portfolio':
     - 'UCSD':
       - 'SEDS Portfolio': 'SEDS_portfolio.md'

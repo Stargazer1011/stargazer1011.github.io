@@ -6,3 +6,4 @@ I want to learn the skills of designing a rocket engine to hopefully get accepte
 
 ## Objective 
 Design everything of the rocket up until physically building the rocket. 
+Including CEA (Chemical Equilibrium Analysis), CAD (Computer Aided Design), and CFD (Computational Fluid Dynamics)

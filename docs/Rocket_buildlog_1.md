@@ -32,9 +32,8 @@ In addition to that, I also found a [website](https://spacha.github.io/How-to-Ro
 
 Initially the numbers looked really off, for some reason the cross-secional area for the nozzle exit is somehow the same size as the F-1 engine. It took me a while, but I found out that the main issue is units, none of the outputed values are in standard SI units, so I had to convert everything and the number made more sense. 
 
-For the combustion chamber sizing, the $L*$ or characteristic length of the chamber was apparantly different based on the fuel you use. I don't know why, maybe its because LOX/IPA is not practical in orbital vehicles, but I can't find any data on its $L*$. I decided to set it at 1.5 meters and try to change it based on CFD results. 
+For the combustion chamber sizing, the $L^*$ or characteristic length of the chamber was apparantly different based on the fuel you use. I don't know why, maybe its because LOX/IPA is not practical in orbital vehicles, but I can't find any data on its $L^*$. I decided to set it at 1.5 meters and try to change it based on CFD results. 
 
-![image](blog_img/B1_CEA_spreadsheet.png)
-I used a spreadsheet to calculate the values of the nozzle and combustion chamber
+![image](<blog_img/B1_CEA_spreadsheet.png> "I used a spreadsheet to calculate the values of the nozzle and combustion chamber")
 
 Thanks for reading!
